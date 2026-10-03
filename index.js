@@ -21,7 +21,7 @@ const TMDB_KEY = process.env.TMDB_API_KEY || '';
 const manifest = {
   id: 'community.tmdb.external.link',
   version: '1.0.0',
-  name: 'TMDB External Link',
+  name: 'In Italiano',
   description: `Opens the title on ${DOMAIN} using its TMDB id`,
   resources: ['stream'],
   types: ['movie', 'series'],

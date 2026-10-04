@@ -98,12 +98,12 @@ http
         const streams = path
           ? [
               {
-                name: 'TCL Browser',
+                name: '🇮🇹 ITA (TCL Browser)',
                 title: `Open in ${BROWSER_PACKAGE}\n${plain}`,
                 externalUrl: intentUrl(path),
               },
               {
-                name: 'Default browser',
+                name: '🇮🇹 ITA (Default browser)',
                 title: `Fallback (https link)\n${plain}`,
                 externalUrl: plain,
               },

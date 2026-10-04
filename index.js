@@ -99,12 +99,12 @@ http
           ? [
               {
                 name: '🇮🇹 ITA (TCL Browser)',
-                title: `Open in ${BROWSER_PACKAGE}\n${plain}`,
+                title: `Apri Direttamente nel Browser`,
                 externalUrl: intentUrl(path),
               },
               {
                 name: '🇮🇹 ITA (Default browser)',
-                title: `Fallback (https link)\n${plain}`,
+                title: `Apri nel Browser`,
                 externalUrl: plain,
               },
             ]
